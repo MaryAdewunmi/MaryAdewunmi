@@ -11,9 +11,9 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm Prospective PhD Student
+- 📡 I'm Prospective PhD Student in Health Informatics
 - 🌱 I’m currently learning Deep Learning for analysing Cancerous images datasets
-- 🔭 I'm currently working as a Researcher
+- 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MoA Analytics
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
 - 💬 Ask me about Cancer research using -omics
 - 📫 How to reach me: by email mary@moaanalytic.com
