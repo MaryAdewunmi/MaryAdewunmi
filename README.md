@@ -10,12 +10,12 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm 
-- 🌱 I’m currently learning ...
+- 📡 I'm Prospective PhD Student
+- 🌱 I’m currently learning Deep Learning for analysing Cancerous images datasets
 - 🔭 I'm currently working as a Researcher
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
-- 💬 Ask me about ...
-- 📫 How to reach me: by email mmm@gmail.com
+- 💬 Ask me about Cancer research using -omics
+- 📫 How to reach me: by email mary@moaanalytic.com
 
 
 
