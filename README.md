@@ -12,7 +12,7 @@
 
 #### About me  
 - 📡 I'm a Prospective PhD Student in Cancer Informatics
-- 🌱 I’m currently learning Deep Learning for analysing Cancerous images datasetsusing various Models
+- 🌱 I’m currently learning Deep Learning for analysing Cancerous images datasets using various Models
 - 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MoA Analytics
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
 - 💬 Ask me about Cancer research using -omics
