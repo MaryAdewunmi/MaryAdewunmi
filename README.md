@@ -12,11 +12,11 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm a Prospective PhD Student in Cancer Informatics
-- 🌱 I’m currently learning Deep Learning for analysing Medical Images Classification
+- 📡 I'm a Prospective PhD Student in AI for Cancer Informatics
+- 🌱 I’m currently learning Deep Learning for Medical Images Classification
 - 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MoA Analytics
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
-- 💬 Ask me about Cancer research using -omics
+- 💬 Ask me about Cancer research using image analysis
 - 📫 How to reach me: by email mary@moaanalytic.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaryAdewunmi&theme=blue)](https://github.com/MaryAdewunmi/github-readme-stats)  
