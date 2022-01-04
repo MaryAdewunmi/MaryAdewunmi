@@ -17,7 +17,7 @@
 - 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MOA Analytics
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
 - 💬 Ask me about medical image diagnosis using AI
-- 📫 How to reach me: by email mary@moaanalytic.com/madewunmi23@gmail.com
+- 📫 How to reach me: by email mary@moaanalytic.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaryAdewunmi&theme=blue)](https://github.com/MaryAdewunmi/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryAdewunmi&theme=blue)
@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
-![](https://img.shields.io/badge/NLTK-informational?style=flat&logo=nltk&logoColor=white&color=013243)
+
 
 
 <!--
