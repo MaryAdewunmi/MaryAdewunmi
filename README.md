@@ -12,19 +12,18 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm a Prospective PhD Student in AI for Cancer Informatics
-- 🌱 I’m currently learning Deep Learning for Medical Images Classification
-- 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MoA Analytics
+- 📡 I'm a Prospective PhD Student in Deep/Machine learning/AI for Medical diagnosis
+- 🌱 I’m currently working on Deeplearning for Colorectal diagnosis
+- 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MOA Analytics
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
-- 💬 Ask me about Cancer research using image analysis
-- 📫 How to reach me: by email mary@moaanalytic.com
+- 💬 Ask me about medical image diagnosis using AI
+- 📫 How to reach me: by email mary@moaanalytic.com/madewunmi23@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaryAdewunmi&theme=blue)](https://github.com/MaryAdewunmi/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryAdewunmi&theme=blue)
 
 
 #### My favourite languages & tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
