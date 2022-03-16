@@ -14,8 +14,9 @@
 #### About me  
 - 📡 I'm a Prospective PhD Student in Deep/Machine learning/AI for Medical diagnosis
 - 🌱 I’m currently working on Deeplearning for Colorectal diagnosis
-- 🔭 I'm currently working as a Researcher in NACETEM & as a Data Scientist in MOA Analytics
-- 🤓 I'm a grantee at Kaggle BIPOC Grant Program 
+- 🔭 I'm currently working as a Researcher in NACETEM & a Freelance Data Scientist 
+- 🤓 I'm an American Association of Cancer Researcher(AACR) grantee/Awardee 2022
+- 🤓 I'm a grantee at Kaggle BIPOC Grant Program 2021
 - 💬 Ask me about medical image diagnosis using AI
 - 📫 How to reach me: by email mary@moaanalytic.com
 
