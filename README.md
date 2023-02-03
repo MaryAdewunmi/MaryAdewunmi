@@ -12,13 +12,12 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm a Prospective PhD Student in Deep/Machine learning/AI for Medical diagnosis
-- 🌱 I’m currently working on Deeplearning for Colorectal diagnosis
-- 🔭 I'm currently working as a Researcher in NACETEM & a Freelance Data Scientist 
+- 📡 I'm a PhD Student with focus on Deep/Machine learning/AI for Medical diagnosis
+- 🌱 I’m currently working on Colon cancer & Ai
 - 🤓 I'm an American Association of Cancer Researcher(AACR) grantee/Awardee 2022
 - 🤓 I'm a grantee at Kaggle BIPOC Grant Program 2021
 - 💬 Ask me about medical image diagnosis using AI
-- 📫 How to reach me: by email mary@moaanalytic.com
+- 📫 How to reach me: by email mary.adewunmi@utas.edu.au
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaryAdewunmi&theme=blue)](https://github.com/MaryAdewunmi/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryAdewunmi&theme=blue)
