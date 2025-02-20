@@ -12,10 +12,10 @@
 ![Profile views](https://gpvc.arturio.dev/MaryAdewunmi)
 
 #### About me  
-- 📡 I'm a PhD Student with focus on Deep/Machine learning/AI for Medical diagnosis
+- 📡 I'm a PhD Student with a focus on Deep/Machine learning/AI for Medical diagnosis
 - 🌱 I’m currently working on Colon cancer & Ai
-- 🤓 I'm an American Association of Cancer Researcher(AACR) grantee/Awardee 2022
-- 🤓 I'm a grantee at Kaggle BIPOC Grant Program 2021
+- 🤓 I'm an American Association of Cancer Researcher(AACR) Grantee/Awardee 2022
+- 🤓 I'm a Grantee at Kaggle BIPOC Grant Program 2021
 - 💬 Ask me about medical image diagnosis using AI
 - 📫 How to reach me: by email mary.adewunmi@utas.edu.au
 
