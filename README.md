@@ -13,12 +13,12 @@
 
 #### About me  
 - 📡 I'm a PhD candidate with a research focus on improving health outcomes using programming approaches
-- 👯 I’m looking forward to collaborating with Clinicians, AI programmers and Bioinformaticians on improving clinical and health outcomes
+- 👯 I’m collaborating with Clinicians, AI programmers and Bioinformaticians on improving clinical and health outcomes
 - 🌱 I’m currently working on a Clinical Decision Support System (CDSS) to manage chronic conditions in Australia
 - 🤓 I'm one of the Co-Chairs of GSAC-AACR and also one of the American Association of Cancer Researchers (AACR) grantees/Awardee 2022
 - 🤓 I'm a Mentor in GMI, Kaggle BIPOC and a grantee at Kaggle BIPOC Grant Program 2021
 - 💬 Ask me about diagnosis, prognosis and treatment using AI and programming approaches
-- ⚡ Fun fact about me is that I love travelling and fashion
+- ⚡ Fun fact about me - I love travelling and fashion
 - 📫 How to reach me: by email mary.adewunmi@menzies.edu.au
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaryAdewunmi&theme=blue)](https://github.com/MaryAdewunmi/github-readme-stats)  
